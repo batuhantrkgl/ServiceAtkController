@@ -1,0 +1,16 @@
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\bin\Debug\ServiceAtkController.exe.config
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\bin\Debug\ServiceAtkController.exe.manifest
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\bin\Debug\ServiceAtkController.application
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\bin\Debug\ServiceAtkController.exe
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\bin\Debug\ServiceAtkController.pdb
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\bin\Debug\Guna.UI2.dll
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.csproj.AssemblyReference.cache
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.Form1.resources
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.Properties.Resources.resources
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.csproj.GenerateResource.cache
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.csproj.CoreCompileInputs.cache
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.exe.manifest
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.application
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.csproj.CopyComplete
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.exe
+C:\Users\Batuhantrkgl\source\repos\ServiceAtkController\ServiceAtkController\obj\Debug\ServiceAtkController.pdb
